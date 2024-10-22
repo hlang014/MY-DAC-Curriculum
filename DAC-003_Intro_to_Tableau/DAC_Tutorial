@@ -1,8 +1,0 @@
-import pandas as pd
-
-df = pd.read_csv('/Users/ameli/Desktop/Netflix_Userbase.csv')
-df.head()
-
-
-
-
